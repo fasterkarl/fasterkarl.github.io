@@ -98,13 +98,13 @@ $(document).ready(function() {
 		window.open("http://www.pkey.cn/")
 	})
 	$(".wecheat").click(function() {
-		window.open("https://mumu1993.github.io/wechat/")
+		window.open("https://fasterkarl.github.io/wechat/")
 	})
 	$(".dom").click(function() {
-		window.open("https://mumu1993.github.io/dom/")
+		window.open("https://fasterkarl.github.io/dom/")
 	})
 	$(".js").click(function() {
-		window.open("https://mumu1993.github.io/js-partice/")
+		window.open("https://fasterkarl.github.io/js-partice/")
 	})
 	$(".message").click(function() {
 		alert("正在建设中...请耐心等候")
